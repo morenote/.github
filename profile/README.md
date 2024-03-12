@@ -9,7 +9,7 @@
 
 后端代码
 
-## AngularApp（未开始）
+## AngularApp(进行中)
 
 angular+electron编写web跨平台桌面端程序
 
