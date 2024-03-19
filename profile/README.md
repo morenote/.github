@@ -22,11 +22,11 @@ morenote支持托管你的笔记、文档、文件、图片或者视频资料。
 
 ## Frontend
 
-前端代码实现
+后台管理界面：angular实现
 
 ## Server
 
-后端代码实现
+后端代码实现：C#实现
 
 ## AngularApp(进行中)
 
